@@ -1,0 +1,15 @@
+{
+  "accentColor": "#2f7f71",
+  "cssTheme": "Minimal",
+  "baseFontSize": 17,
+  "nativeMenus": true,
+  "translucency": false,
+  "monospaceFontFamily": "Ubuntu",
+  "interfaceFontFamily": "Ubuntu",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Fonts"
+  ]
+}

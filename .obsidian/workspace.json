@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "64372da58ae1c8b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2405182863e33b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad27fe3818b942ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "157d5cc3a5bbc7c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "df734b53ad21dd38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95f1f30182cb0b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb8d290d7e4919a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5a00768d88d6557",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "915a25ce0194366e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b46d162674e3f79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b66bda201539b8e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28c44413d910e996",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b17f1368f8b8f04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0348fbcbf5a6ec8c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "04f41c39092d2cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md"
+              }
+            }
+          },
+          {
+            "id": "5ea9dcd8d117359e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cac6a86763dd9c22",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ad27fe3818b942ee",
+  "lastOpenFiles": [
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Sin título.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Sin título.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso Práctico de Sistemas de Diseño con Figma.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
+    "100_Conocimientos/Backend con Node.js/Curso de ECMAScript.md",
+    "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171557.png",
+    "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171313.png",
+    "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171153.png",
+    "100_Conocimientos/AWS/Primeros pasos/curso-de-introduccion-a-la-nube_a93ae09d-b6a9-4381-9a00-917d7076fa99.pdf",
+    "100_Conocimientos/AWS/Primeros pasos/Curso de Introducción a la Nube.md",
+    "100_Conocimientos/AWS/AWS fundamentos/Curso de Introducción a AWS - Redes, Gobernanza y Machine Learning.md",
+    "100_Conocimientos/AWS/AWS fundamentos/Curso de Introducción a AWS - Fundamentos de Cloud Computing.md",
+    "100_Conocimientos/AWS/AWS fundamentos/Curso de Introducción a AWS - Cómputo, Almacenamiento y Bases de Datos.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/Rsc/Metodologías Ágiles.md",
+    "100_Conocimientos/Arquitectura/Descripción.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/006_Estilos de arquitectura.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/005_Riesgos.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/004_Requerimientos.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/003_Entender el problema.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/002_Arquitectura y metodologías.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/001_Arquitectura del software.md",
+    "200_Trabajos/201_Porfolio/Requisitos.md",
+    "Plan de semana/Plan de semana.md",
+    "200_Trabajos/201_Porfolio/Drawing 2023-12-25 16.38.18.excalidraw.md",
+    "100_Conocimientos/Ingeniería_software/Proyectos/Matemáticas con Programación/_Proyecto/Documento del proyecto.md",
+    "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Proyecto/Planteamiento de la idea.md",
+    "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Planeación de proyecto.md",
+    "100_Conocimientos/Ingeniería_software/Semestre_04/Herramientas_2/App final.md",
+    "100_Conocimientos/Ingeniería_software/Semestre_05/Ingenieria_2/Ingeniería de software.md",
+    "200_Trabajos/Formarte/Daily",
+    "100_Conocimientos/101_Primarios/Gestión",
+    "100_Conocimientos/101_Primarios",
+    "200_Trabajos/Formarte",
+    "100_Conocimientos/Ingeniería_software/Semestre_05/Herramientas3",
+    "100_Conocimientos/Ingeniería_software/Semestre_05/Ingenieria_2",
+    "100_Conocimientos/Ingeniería_software/Semestre_05",
+    "Sin título.canvas",
+    "100_Conocimientos/Backend con Node.js",
+    "Personal",
+    "Empresa/Trabajos/Nicolás Restrepo/Ref/Pasted image 20240704171742.png",
+    "Empresa/Trabajos/Nicolás Restrepo/Ref/Pasted image 20240704171035.png"
+  ]
+}

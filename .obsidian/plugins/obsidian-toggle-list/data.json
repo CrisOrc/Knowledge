@@ -1,0 +1,55 @@
+{
+  "pop_state": {
+    "popon": false,
+    "hot": false,
+    "incr": 0
+  },
+  "plot": false,
+  "cmd_list": [
+    {
+      "index": 0,
+      "name": "Task",
+      "tmp_name": "Task",
+      "bindings": [
+        0
+      ],
+      "isPopOver": true
+    },
+    {
+      "index": 3,
+      "name": "Task + Callout",
+      "tmp_name": "Task + Callout",
+      "bindings": [
+        0
+      ],
+      "isPopOver": true
+    }
+  ],
+  "setup_list": [
+    {
+      "index": 0,
+      "all_states": "- \n- [ ] \n- [/] \n- [x] || ✅ {time:: YYYY-MM-DD}\n\n- [?] \n- [!] \n- [~] ",
+      "states": [
+        "- ",
+        "- [ ] ",
+        "- [/] ",
+        "- [x] || ✅ {time:: YYYY-MM-DD}",
+        "",
+        "- [?] ",
+        "- [!] ",
+        "- [~] "
+      ],
+      "sorteds": [
+        "- [x] || ✅ {time:: YYYY-MM-DD}",
+        "- [ ] ",
+        "- [/] ",
+        "- [?] ",
+        "- [!] ",
+        "- [~] ",
+        "- ",
+        ""
+      ],
+      "states_dict": {}
+    }
+  ]
+}

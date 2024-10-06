@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Louis_George_Cafe";
+    src: url("../../Programación/Fiver/Diseño_UX_UI/Diseño_Portafolio/Login_Café/Fuentes/Louis_George_Cafe.ttf");
+}
+
+:root{
+    --Louis_George_Cafe: Louis_George_Cafe;
+
+}
