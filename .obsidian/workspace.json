@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0142a7590453ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Indice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0142a7590453ee5",
+  "active": "ad27fe3818b942ee",
   "lastOpenFiles": [
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
-    "Indice.md",
     "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+    "Indice.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Sin título.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Sin título.md",
