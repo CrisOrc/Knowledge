@@ -11,8 +11,12 @@
             "id": "44b3333c2c05d017",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "100_Conocimientos/103_IA/Sistema RAG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "100_Conocimientos/103_IA/Sistema RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "100_Conocimientos/103_IA/Sistema RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md"
+                "file": "100_Conocimientos/103_IA/Sistema RAG.md"
               }
             }
           },
@@ -176,9 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a95f1f30182cb0b4",
+  "active": "44b3333c2c05d017",
   "lastOpenFiles": [
     "Indice.md",
+    "100_Conocimientos/103_IA/Sistema RAG.md",
+    "100_Conocimientos/103_IA",
+    "100_Conocimientos/102_Código",
     "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
@@ -207,7 +214,6 @@
     "200_Trabajos/201_Porfolio/Drawing 2023-12-25 16.38.18.excalidraw.md",
     "100_Conocimientos/Ingeniería_software/Proyectos/Matemáticas con Programación/_Proyecto/Documento del proyecto.md",
     "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Proyecto/Planteamiento de la idea.md",
-    "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Planeación de proyecto.md",
     "200_Trabajos/Formarte/Daily",
     "100_Conocimientos/101_Primarios/Gestión",
     "100_Conocimientos/101_Primarios",
@@ -216,8 +222,6 @@
     "100_Conocimientos/Ingeniería_software/Semestre_05/Ingenieria_2",
     "100_Conocimientos/Ingeniería_software/Semestre_05",
     "Sin título.canvas",
-    "100_Conocimientos/Backend con Node.js",
-    "Personal",
     "Empresa/Trabajos/Nicolás Restrepo/Ref/Pasted image 20240704171742.png",
     "Empresa/Trabajos/Nicolás Restrepo/Ref/Pasted image 20240704171035.png"
   ]
