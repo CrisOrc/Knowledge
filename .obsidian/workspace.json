@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2405182863e33b0c",
+        "id": "cb55903fe39c764e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad27fe3818b942ee",
+            "id": "44b3333c2c05d017",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indice.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md"
+                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md"
               }
             }
           },
@@ -180,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad27fe3818b942ee",
+  "active": "a95f1f30182cb0b4",
   "lastOpenFiles": [
-    "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
     "Indice.md",
+    "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Sin título.md",
