@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0142a7590453ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md"
+                "file": "Indice.md"
               }
             }
           },
@@ -167,26 +180,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a95f1f30182cb0b4",
+  "active": "d0142a7590453ee5",
   "lastOpenFiles": [
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
+    "Indice.md",
+    "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Sin título.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Sin título.md",
     "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso Práctico de Sistemas de Diseño con Figma.md",
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
     "100_Conocimientos/Backend con Node.js/Curso de ECMAScript.md",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171557.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171313.png",
@@ -210,8 +225,6 @@
     "100_Conocimientos/Ingeniería_software/Proyectos/Matemáticas con Programación/_Proyecto/Documento del proyecto.md",
     "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Proyecto/Planteamiento de la idea.md",
     "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Planeación de proyecto.md",
-    "100_Conocimientos/Ingeniería_software/Semestre_04/Herramientas_2/App final.md",
-    "100_Conocimientos/Ingeniería_software/Semestre_05/Ingenieria_2/Ingeniería de software.md",
     "200_Trabajos/Formarte/Daily",
     "100_Conocimientos/101_Primarios/Gestión",
     "100_Conocimientos/101_Primarios",
