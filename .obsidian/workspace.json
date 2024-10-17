@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2405182863e33b0c",
+        "id": "a7f8af3540408488",
         "type": "tabs",
         "children": [
           {
-            "id": "ad27fe3818b942ee",
+            "id": "54dc7fbd03b57f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100_Conocimientos/101_Primarios/Gestión/User Story maping.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,48 +180,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a95f1f30182cb0b4",
+  "active": "54dc7fbd03b57f06",
   "lastOpenFiles": [
-    "Indice.md",
-    "100_Conocimientos/103_IA/Sistema RAG.md",
-    "100_Conocimientos/103_IA",
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Sin título.md",
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Sin título.md",
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso Práctico de Sistemas de Diseño con Figma.md",
-    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
-    "100_Conocimientos/Backend con Node.js/Curso de ECMAScript.md",
+    "200_Arquitectura de software/200_Diseño/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
+    "conflict-files-obsidian-git.md",
+    "200_Arquitectura de software/100_Arquitectura/005_Riesgos.md",
+    "200_Arquitectura de software/100_Arquitectura/003_Entender el problema.md",
+    "300_Gestión de proyectos/100_Metodologías ágiles/User Story maping.md",
+    "200_Arquitectura de software/100_Arquitectura/002_Arquitectura y metodologías.md",
+    "100_Knowledge/200_Arquitectura de software/100_Arquitectura/Rsc/Metodologías Ágiles.md",
+    "100_Knowledge/200_Arquitectura de software/100_Arquitectura/Rsc",
+    "100_Knowledge/200_Arquitectura de software/100_Arquitectura",
+    "100_Knowledge/200_Arquitectura de software",
+    "100_Knowledge",
+    "200_Arquitectura de software/100_Arquitectura/001_Arquitectura del software.md",
+    "SIstemas de diseño/Curso_ Sistemas de diseño - EDteam _ Jeanda (Community).fig",
+    "SIstemas de diseño",
+    "Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
+    "Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso Práctico de Sistemas de Diseño con Figma.md",
+    "Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
+    "Especialización en Sistemas de Diseño/Fundamentos",
+    "Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero",
+    "Especialización en Sistemas de Diseño",
+    "Backend con Node.js/Curso de ECMAScript.md",
+    "Backend con Node.js",
+    "Arquitectura/_Aprendizaje/Rsc/Metodologías Ágiles.md",
+    "Arquitectura/_Aprendizaje/006_Estilos de arquitectura.md",
+    "Arquitectura/_Aprendizaje/004_Requerimientos.md",
+    "Arquitectura/_Aprendizaje/005_Riesgos.md",
+    "Arquitectura/_Aprendizaje/003_Entender el problema.md",
+    "Arquitectura/_Aprendizaje/002_Arquitectura y metodologías.md",
+    "Arquitectura/_Aprendizaje/001_Arquitectura del software.md",
+    "Arquitectura/Descripción.md",
+    "AWS/Primeros pasos/Pasted image 20240415171557.png",
+    "AWS/Primeros pasos/Pasted image 20240415171313.png",
+    "AWS/Primeros pasos/Pasted image 20240415171153.png",
+    "AWS/Primeros pasos/Curso de Introducción a la Nube.md",
+    "AWS/AWS fundamentos/Curso de Introducción a AWS - Redes, Gobernanza y Machine Learning.md",
+    "AWS/AWS fundamentos/Curso de Introducción a AWS - Fundamentos de Cloud Computing.md",
+    "AWS/AWS fundamentos/Curso de Introducción a AWS - Cómputo, Almacenamiento y Bases de Datos.md",
+    "103_IA/Sistema RAG.md",
+    "101_Primarios/Gestión/User Story maping.md",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171557.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171313.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171153.png",
-    "100_Conocimientos/AWS/Primeros pasos/curso-de-introduccion-a-la-nube_a93ae09d-b6a9-4381-9a00-917d7076fa99.pdf",
-    "100_Conocimientos/AWS/Primeros pasos/Curso de Introducción a la Nube.md",
-    "100_Conocimientos/AWS/AWS fundamentos/Curso de Introducción a AWS - Redes, Gobernanza y Machine Learning.md",
-    "100_Conocimientos/AWS/AWS fundamentos/Curso de Introducción a AWS - Fundamentos de Cloud Computing.md",
-    "100_Conocimientos/AWS/AWS fundamentos/Curso de Introducción a AWS - Cómputo, Almacenamiento y Bases de Datos.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/Rsc/Metodologías Ágiles.md",
-    "100_Conocimientos/Arquitectura/Descripción.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/006_Estilos de arquitectura.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/005_Riesgos.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/004_Requerimientos.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/003_Entender el problema.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/002_Arquitectura y metodologías.md",
-    "100_Conocimientos/Arquitectura/_Aprendizaje/001_Arquitectura del software.md",
-    "200_Trabajos/201_Porfolio/Requisitos.md",
-    "Plan de semana/Plan de semana.md",
-    "200_Trabajos/201_Porfolio/Drawing 2023-12-25 16.38.18.excalidraw.md",
-    "100_Conocimientos/Ingeniería_software/Proyectos/Matemáticas con Programación/_Proyecto/Documento del proyecto.md",
-    "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Proyecto/Planteamiento de la idea.md",
-    "100_Conocimientos/Ingeniería_software/Semestre_04/Ingeniería_01/Planeación de proyecto.md",
-    "200_Trabajos/Formarte/Daily",
-    "100_Conocimientos/101_Primarios/Gestión",
-    "100_Conocimientos/101_Primarios",
-    "200_Trabajos/Formarte",
-    "100_Conocimientos/Ingeniería_software/Semestre_05/Herramientas3",
-    "100_Conocimientos/Ingeniería_software/Semestre_05/Ingenieria_2",
-    "100_Conocimientos/Ingeniería_software/Semestre_05",
     "Sin título.canvas",
-    "100_Conocimientos/Backend con Node.js",
     "Empresa/Trabajos/Nicolás Restrepo/Ref/Pasted image 20240704171742.png",
     "Empresa/Trabajos/Nicolás Restrepo/Ref/Pasted image 20240704171035.png"
   ]
