@@ -176,7 +176,8 @@
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a95f1f30182cb0b4",
