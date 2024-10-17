@@ -11,8 +11,12 @@
             "id": "bbc30bb0a18beea1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md"
+              }
             }
           },
           {
@@ -172,8 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbc30bb0a18beea1",
+  "active": "a95f1f30182cb0b4",
   "lastOpenFiles": [
+    "500_Inteligencia Artificial/100_LLM",
+    "500_Inteligencia Artificial",
     "conflict-files-obsidian-git.md",
     "200_Arquitectura de software/200_Diseño/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
     "200_Arquitectura de software/100_Arquitectura/005_Riesgos.md",
@@ -195,7 +205,6 @@
     "Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero",
     "Especialización en Sistemas de Diseño",
     "Backend con Node.js/Curso de ECMAScript.md",
-    "Backend con Node.js",
     "Arquitectura/_Aprendizaje/Rsc/Metodologías Ágiles.md",
     "Arquitectura/_Aprendizaje/006_Estilos de arquitectura.md",
     "Arquitectura/_Aprendizaje/004_Requerimientos.md",
@@ -212,7 +221,6 @@
     "AWS/AWS fundamentos/Curso de Introducción a AWS - Fundamentos de Cloud Computing.md",
     "AWS/AWS fundamentos/Curso de Introducción a AWS - Cómputo, Almacenamiento y Bases de Datos.md",
     "103_IA/Sistema RAG.md",
-    "101_Primarios/Gestión/User Story maping.md",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171557.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171313.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171153.png",
