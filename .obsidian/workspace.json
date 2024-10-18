@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc860c68adb1d202",
+        "id": "2405182863e33b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "bbc30bb0a18beea1",
+            "id": "ad27fe3818b942ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,7 +136,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -136,9 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "500_Inteligencia Artificial/100_LLM/Sistema RAG.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -146,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -154,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,12 +181,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
@@ -180,22 +194,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a95f1f30182cb0b4",
+  "active": "ad27fe3818b942ee",
   "lastOpenFiles": [
-    "500_Inteligencia Artificial/100_LLM",
-    "500_Inteligencia Artificial",
-    "conflict-files-obsidian-git.md",
-    "200_Arquitectura de software/200_Diseño/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
-    "200_Arquitectura de software/100_Arquitectura/005_Riesgos.md",
-    "200_Arquitectura de software/100_Arquitectura/003_Entender el problema.md",
-    "300_Gestión de proyectos/100_Metodologías ágiles/User Story maping.md",
-    "200_Arquitectura de software/100_Arquitectura/002_Arquitectura y metodologías.md",
     "100_Knowledge/200_Arquitectura de software/100_Arquitectura/Rsc/Metodologías Ágiles.md",
     "100_Knowledge/200_Arquitectura de software/100_Arquitectura/Rsc",
     "100_Knowledge/200_Arquitectura de software/100_Arquitectura",
     "100_Knowledge/200_Arquitectura de software",
     "100_Knowledge",
-    "200_Arquitectura de software/100_Arquitectura/001_Arquitectura del software.md",
+    "500_Inteligencia Artificial/100_LLM/Sistema RAG.md",
+    "500_Inteligencia Artificial/100_LLM",
+    "500_Inteligencia Artificial",
     "SIstemas de diseño/Curso_ Sistemas de diseño - EDteam _ Jeanda (Community).fig",
     "SIstemas de diseño",
     "Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
@@ -203,7 +211,6 @@
     "Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
     "Especialización en Sistemas de Diseño/Fundamentos",
     "Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero",
-    "Especialización en Sistemas de Diseño",
     "Backend con Node.js/Curso de ECMAScript.md",
     "Arquitectura/_Aprendizaje/Rsc/Metodologías Ágiles.md",
     "Arquitectura/_Aprendizaje/006_Estilos de arquitectura.md",
@@ -221,6 +228,13 @@
     "AWS/AWS fundamentos/Curso de Introducción a AWS - Fundamentos de Cloud Computing.md",
     "AWS/AWS fundamentos/Curso de Introducción a AWS - Cómputo, Almacenamiento y Bases de Datos.md",
     "103_IA/Sistema RAG.md",
+    "101_Primarios/Gestión/User Story maping.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Fundamentos/Curso de Diseño para Developers.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso Práctico de Sistemas de Diseño con Figma.md",
+    "100_Conocimientos/Especialización en Sistemas de Diseño/Construye Sistemas de Diseño desde cero/Curso de Sistemas de Diseño Efectivos.md",
+    "100_Conocimientos/Backend con Node.js/Curso de ECMAScript.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/Rsc/Metodologías Ágiles.md",
+    "100_Conocimientos/Arquitectura/_Aprendizaje/006_Estilos de arquitectura.md",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171557.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171313.png",
     "100_Conocimientos/AWS/Primeros pasos/Pasted image 20240415171153.png",
