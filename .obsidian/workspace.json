@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Sistema RAG"
             }
-          },
-          {
-            "id": "9ef2a805eef56a21",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ef2a805eef56a21",
+  "active": "bbc30bb0a18beea1",
   "lastOpenFiles": [
     "500_Inteligencia Artificial/100_LLM",
     "500_Inteligencia Artificial",
