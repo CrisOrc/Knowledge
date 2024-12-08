@@ -1,6 +1,5 @@
 ---
 tags:
   - AI
-aliases:
+link: https://www.recraft.ai
 ---
-https://www.recraft.ai
